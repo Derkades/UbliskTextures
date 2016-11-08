@@ -539,11 +539,11 @@ tile.sand.red.name=Red Sand
 tile.sandStone.name=Sandstone
 tile.sandStone.default.name=Sandstone
 tile.sandStone.chiseled.name=Chiseled Sandstone
-tile.sandStone.smooth.name=Smooth Sandstone
+tile.sandStone.smooth.name=Sandstone Bricks
 tile.redSandStone.name=Red Sandstone
 tile.redSandStone.default.name=Red Sandstone
 tile.redSandStone.chiseled.name=Chiseled Red Sandstone
-tile.redSandStone.smooth.name=Smooth Red Sandstone
+tile.redSandStone.smooth.name=Red Sandstone Bricks
 tile.gravel.name=Gravel
 tile.oreGold.name=Gold Ore
 tile.oreIron.name=Iron Ore
@@ -856,6 +856,10 @@ tile.purpurSlab.name=Purpur Slab
 tile.endBricks.name=End Stone Bricks
 tile.beetroots.name=Beetroots
 tile.grassPath.name=Grass Path
+tile.magma.name=Magma Block
+tile.netherWartBlock.name=Mesa Stone
+tile.redNetherBrick.name=Mesa Bricks
+tile.boneBlock.name=Bone Block
 
 tile.structureBlock.name=Structure Block
 
