@@ -296,9 +296,9 @@ disconnect.overflow=Buffer overflow
 disconnect.spam=Kicked for spamming
 
 soundCategory.master=Master Volume
-soundCategory.music=Music
+soundCategory.music=Music (Set to off)
 soundCategory.record=Jukebox/Noteblocks
-soundCategory.weather=Weather
+soundCategory.weather=Weather (Set to off)
 soundCategory.hostile=Hostile Creatures
 soundCategory.neutral=Friendly Creatures
 soundCategory.player=Players
