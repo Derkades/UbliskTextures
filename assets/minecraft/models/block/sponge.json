@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Jerrijnmandjes12 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"mesh_palette": "blocks/mesh_palette"
+		"particle": "model-data/zenith-blade/particle",
+		"texture": "model-data/zenith-blade/texture",
+		"mesh_palette": "model-data/zenith-blade/mesh_palette"
 	},
 	"elements": [
 		{
