@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed by Jerrijnmandjes12 with Cubik Studio - https://cubik.studio",
+	"__comment": "Designed by SenpaiSander with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "model-data/star/particle",
 		"texture": "model-data/star/texture",
@@ -866,8 +866,7 @@
 			"scale":  [ 5, 5, 5 ]
 		},
 		"ground": {
-			"rotation":  [ 0, 0, 90 ],
-			"translation":  [ 0, -9.043, 0 ],
+			"rotation":  [ 0, 133, 90 ],
 			"scale":  [ 3, 3, 3 ]
 		},
 		"fixed": {
