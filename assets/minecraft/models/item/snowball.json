@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Jerrijnmandjes12 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"mesh_palette": "blocks/mesh_palette"
+		"particle": "model-data/star/particle",
+		"texture": "model-data/star/texture",
+		"mesh_palette": "model-data/star/mesh_palette"
 	},
 	"elements": [
 		{
